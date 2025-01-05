@@ -1,13 +1,11 @@
 # course_node.js
 
-## Курс по Node.js
-
-Цей курс для тих, хто хоче освоїти серверну розробку за допомогою Node.js — однієї з найпопулярніших платформ для створення веб-додатків.
+Матеріал для тих, хто хоче освоїти серверну розробку за допомогою Node.js — однієї з найпопулярніших платформ для створення веб-додатків.
 
 ![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
-## Основні теми
+## Основні теми:
 
 Вступ до Node.js: Що таке Node.js і як він працює.
 Модулі та пакети: Використання вбудованих модулів, робота з npm.
